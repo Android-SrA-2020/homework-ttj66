@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Joel Tchantchou</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">The thirst to know more, the permanent pursuit for excellence has led me to attend some training to improve my skills in IT. This, in order to successfully accomplish the tasks entrusted to me and to draw all the pleasure provided by the feeling of having done a good job. \n
+        <b> Always perform well   is my motto </b>. In this perspective, I have good skills in system administration on Windows and Linux platforms. \n I have work for many years as systems administrator and user\'s support technician. \n
+<i> Gifted with a large capacity of adaptation, I am able to easily integrate a team, to work under pressure and to transcend cultural differences.</i>
+I can be contacted most easily via my address given above. I am looking forward to hearing from you.
+ </string>
+    <string name="check_icon">Check</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
